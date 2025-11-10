@@ -1,0 +1,1 @@
+ini tampilan frontend outlet
